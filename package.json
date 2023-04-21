@@ -4,7 +4,8 @@
 	"description": "Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.",
 	"main": "index.js",
 	"scripts": {
-		"minify": "node ./index.js"
+		"minify": "node ./index.js",
+		"prepare": "husky install"
 	},
 	"repository": {
 		"type": "git",
@@ -20,5 +21,8 @@
 	"bugs": {
 		"url": "https://github.com/reikrom/Mr-Ranedeer-AI-Tutor/issues"
 	},
-	"homepage": "https://github.com/reikrom/Mr-Ranedeer-AI-Tutor#readme"
+	"homepage": "https://github.com/reikrom/Mr-Ranedeer-AI-Tutor#readme",
+	"devDependencies": {
+		"husky": "^8.0.0"
+	}
 }
