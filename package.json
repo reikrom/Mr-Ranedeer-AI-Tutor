@@ -1,0 +1,24 @@
+{
+	"name": "mr-ranedeer",
+	"version": "1.0.0",
+	"description": "Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.",
+	"main": "index.js",
+	"scripts": {
+		"minify": "node ./index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/reikrom/Mr-Ranedeer-AI-Tutor.git"
+	},
+	"keywords": [
+		"chatGPT4",
+		"AI-tutor",
+		"prompt"
+	],
+	"author": "JushBjj, reikrom",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/reikrom/Mr-Ranedeer-AI-Tutor/issues"
+	},
+	"homepage": "https://github.com/reikrom/Mr-Ranedeer-AI-Tutor#readme"
+}
